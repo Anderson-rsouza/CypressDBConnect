@@ -18,7 +18,7 @@ npm install
 ````
 Substitua os dados genéricos:
 
-No arquivo de configuração (cypress/support/mssql.js), insira as credenciais do seu banco de dados.
+No arquivo de configuração (cypress/support/database/mssql.js), insira as credenciais do seu banco de dados.
 
 Execute os testes:
 ```
