@@ -8,6 +8,10 @@ Este repositório é um template genérico para integração do Cypress com um b
 ```
 git clone https://github.com/Anderson-rsouza/CypressDBConnect.git
 ```
+Acesse a pasta do projeto:
+```
+cd .\CypressDBConnect\
+```
 Instale as dependências:
 ````
 npm install
